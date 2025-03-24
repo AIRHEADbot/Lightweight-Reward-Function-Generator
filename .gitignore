@@ -1,0 +1,7 @@
+*.log
+.env
+_pycache_
+pong_saved_models
+requirements.txt
+CPU-version
+GPU-version
